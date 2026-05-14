@@ -57,7 +57,7 @@ const App: React.FC = () => {
       <Layout>
         <Header style={{ background: '#fff', padding: '0 24px', borderBottom: '1px solid #f0f0f0' }}>
           <Title level={3} style={{ margin: 0, lineHeight: '64px' }}>
-            银联商务-元宝 产品经理面试助手
+            腾讯元宝 AI产品经理面试助手
           </Title>
         </Header>
         <Content style={{ background: '#f5f5f5', overflow: 'auto' }}>
